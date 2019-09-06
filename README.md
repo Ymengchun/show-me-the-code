@@ -8,7 +8,7 @@
 
 ----------
  
-**第 0000 题：** 将你的 QQ 头像（或者微博头像）右上角加上红色的数字，类似于微信未读信息数量那种提示效果。
+[**第 0000 题](https://github.com/Show-Me-the-Code/python/blob/master/4disland/0000/add_num.py)：** 将你的 QQ 头像（或者微博头像）右上角加上红色的数字，类似于微信未读信息数量那种提示效果。
 类似于图中效果
 
 ![头像](http://i.imgur.com/sg2dkuY.png?1)
